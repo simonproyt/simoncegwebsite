@@ -2,9 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Peacefull Minecraft SMP,<br>
-      IP:170-187-186-233.ip.linodeusercontent.com
-      DISCORD:https://discord.gg/xYa2fTz6
+     Magyar Minecraft Server<br>
+    Csatlakoz most 
     </p>
   </div>
 </template>
@@ -36,6 +35,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #ff0000;
+  color: #42b983;
 }
 </style>
